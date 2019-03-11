@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hardware/qcom/audio" name="platform_hardware_qcom_audio" remote="fossil" />
+  <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="fossil" />
+  <project path="hardware/qcom/display" name="platform_hardware_qcom_display" remote="fossil" />
+  <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="fossil" />
+  <project path="hardware/qcom/media" name="platform_hardware_qcom_media" remote="fossil" />
+  <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="fossil" revision="f-9.0" />
+  <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="fossil" revision="f-9.0" />
+  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="fossil" revision="f-9.0" />
+  <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="fossil" revision="f-9.0" />
+  <!-- <project path="hardware/qcom/audio-caf/msm8916" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="fossil" revision="f-9.0-caf-8916" />
+  <project path="hardware/qcom/audio-caf/msm8974" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="fossil" revision="f-9.0-caf-8974" />
+  <project path="hardware/qcom/audio-caf/msm8996" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="fossil" revision="f-9.0-caf-8996" />-->
+  <project path="hardware/qcom/audio-caf/msm8998" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="fossil" revision="f-9.0-caf-8998" />
+  <!--  <project path="hardware/qcom/display-caf/msm8916" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="fossil" revision="f-9.0-caf-8916" />
+  <project path="hardware/qcom/display-caf/msm8974" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="fossil" revision="f-9.0-caf-8974" />
+  <project path="hardware/qcom/display-caf/msm8996" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="fossil" revision="f-9.0-caf-8996" /> -->
+  <project path="hardware/qcom/display-caf/msm8998" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="fossil" revision="f-9.0-caf-8998" />
+  <!-- <project path="hardware/qcom/media-caf/msm8916" name="android_hardware_qcom_media" groups="qcom" remote="fossil" revision="f-9.0-caf-8916" />
+  <project path="hardware/qcom/media-caf/msm8974" name="android_hardware_qcom_media" groups="qcom" remote="fossil" revision="f-9.0-caf-8974" />
+  <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" groups="qcom" remote="fossil" revision="f-9.0-caf-8996" /> -->
+  <project path="hardware/qcom/media-caf/msm8998" name="platform_hardware_qcom_media" groups="qcom" remote="fossil" revision="f-9.0-caf-8998" />
+  <project path="hardware/qcom/bt" name="platform_hardware_qcom_bt" remote="fossil" revision="f-9.0" />
+  <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" remote="fossil" revision="f-9.0-caf" />
+  <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="fossil" />
+  <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="fossil" revision="f-9.0-caf" />
+  <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="fossil" />
+  <project path="hardware/fossil/interfaces" name="platform_hardware_fossil_interfaces" groups="pdk" remote="fossil" />
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="fossil" />
+  <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="fossil" />
+  <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="fossil" />
+  <project path="hardware/ril" name="platform_hardware_ril" remote="fossil" revision="f-9.0" />
+  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="fossil" revision="f-9.0-caf" />  
+  <project path="hardware/qcom/data/ipacfg-mgr" name="android_hardware_qcom_data_ipacfg-mgr" groups="qcom,pdk" remote="lineage" />
+  </manifest>

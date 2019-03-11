@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="frameworks/av" name="platform_frameworks_av" remote="fossil" />
+    <project path="frameworks/base" name="platform_frameworks_base" remote="fossil" />
+    <project path="frameworks/compile/mclinker" name="platform_frameworks_compile_mclinker" remote="fossil" />
+    <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="fossil" />
+    <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="fossil" />
+    <project path="frameworks/native" name="platform_frameworks_native" remote="fossil" />
+
+</manifest>

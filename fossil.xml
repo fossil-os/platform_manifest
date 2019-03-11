@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- FossilOS remote -->
+  <remote name="fossil"
+          fetch="https://github.com/fossil-os"
+          revision="refs/heads/f-9.0"
+          sync-j="16" />
+
+  <remote name="github"
+          fetch="https://github.com/" />
+		   
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="fossil/build.xml" />
+  <include name="fossil/devices.xml" />
+  <include name="fossil/external.xml" />
+  <include name="fossil/frameworks.xml" />
+  <include name="fossil/hals.xml" />
+  <include name="fossil/packages.xml" />
+  <include name="fossil/prebuilts.xml" />
+  <include name="fossil/system.xml" />
+  <include name="fossil/vendors.xml" />
+
+</manifest>

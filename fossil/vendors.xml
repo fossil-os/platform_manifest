@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="vendor/fossil" name="platform_vendor_fossil" remote="fossil" />
+    <project path="vendor/qcom/opensource/dataservices" name="platform_vendor_qcom_opensource_dataservices" remote="fossil" />
+    <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="fossil" />
+    <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="fossil" />
+    <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="fossil" />
+    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="fossil" />
+    <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="lineage" />
+    <project path="vendor/qcom/opensource/cryptfs_hw" name="platform_vendor_qcom_opensource_cryptfs_hw"  remote="fossil" />
+</manifest>
